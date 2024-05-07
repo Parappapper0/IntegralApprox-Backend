@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\camal\Desktop\Desktop\Project2\Source.c(47,16): warning C4047: 'function': 'PADDRINFOA' differs in levels of indirection from 'int'
+C:\Users\camal\Desktop\Desktop\Project2\Source.c(47,16): warning C4024: 'freeaddrinfo': different types for formal and actual parameter 1
+C:\Users\camal\Desktop\Desktop\Project2\Source.c(55,16): warning C4047: 'function': 'PADDRINFOA' differs in levels of indirection from 'int'
+C:\Users\camal\Desktop\Desktop\Project2\Source.c(55,16): warning C4024: 'freeaddrinfo': different types for formal and actual parameter 1
+  Project2.vcxproj -> C:\Users\camal\Desktop\Desktop\Project2\x64\Debug\Project2.exe
